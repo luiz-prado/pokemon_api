@@ -1,0 +1,16 @@
+{
+    "count": 1302,
+    "next": null,
+    "previous": "https://pokeapi.co/api/v2/pokemon/?offset=1200&limit=100",
+    "results": [
+        {
+            "name": "terapagos-terastal",
+            "url": "https://pokeapi.co/api/v2/pokemon/10276/"
+        },
+        {
+            "name": "terapagos-stellar",
+            "url": "https://pokeapi.co/api/v2/pokemon/10277/"
+        }
+    ],
+    "created_at": "2024-06-27 23:36:20"
+}
